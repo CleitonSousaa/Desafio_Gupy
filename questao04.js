@@ -1,0 +1,1 @@
+// primeiro eu ligaria o primeiro interruptor e aguardaria alguns minutos depois desligo o primeiro e ligo o segundo interruptor em seguida entro na sala das lampadas e vejo se é a primeira  lampada esta acesa, é ela. se a lampada estiver apagada e quente ao toque isso significa que é o segundo interruptor. se a lampada esta apagada e fria ao toque então é a terceira
